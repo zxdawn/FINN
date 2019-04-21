@@ -1,0 +1,8 @@
+The version of FINN contained in this repo expects the directory or 
+link "data" in this folder to contain the data necessary for FINN,
+i.e. "ls data/" should show all files below:
+GLOB_FINN<version>_<year>_<chemistry>_<creaton_date>.txt
+grass_from_img.nc
+shrub_from_img.nc
+tempfor_from_img.nc
+tropfor_from_img.nc
